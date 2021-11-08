@@ -72,3 +72,8 @@ a {
   background: #222224 !important;
   border-color: #222224 !important;
 }
+
+#website-alert {
+  border-radius: 0.75rem;
+  text-align: center;
+}
