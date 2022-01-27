@@ -32,7 +32,7 @@ h1,h2,h3,h4,h5,h6 {
   background: #1C1C21 !important;
 }
 
-.bg-primary, .is-primary, .btn-primary, .alert {
+.bg-primary, .is-primary, .btn-primary, .alert-primary {
   background: #4182BC !important;
   border-color: #4182BC;
   color: #fff;
@@ -73,7 +73,13 @@ a {
   border-color: #222224 !important;
 }
 
-#website-alert {
+.website-alert {
   border-radius: 0.75rem;
   text-align: center;
+}
+
+.alert-danger {
+  background: rgb(255, 0, 98) !important;
+  border-color: rgb(255, 0, 98);
+  color: #fff;
 }
