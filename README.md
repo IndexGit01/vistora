@@ -7,4 +7,4 @@ Owner: Septaholic, Harri
 
 Developers: Index (FRONTEND), Ahad (FRONTEND)
 
-Archivers: Septaholic, Ahad, Zer0, Yurixyz
+Archivers: Septaholic, Ahad, Zer0, Yurixyz, Damir, Kqpa, Harri
